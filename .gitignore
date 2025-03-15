@@ -1,0 +1,12 @@
+# Abaikan file konfigurasi IntelliJ IDEA
+.idea/
+*.iml
+
+# Abaikan file .gitignore sendiri agar tidak bermasalah
+!.gitignore
+
+# Abaikan modul atau folder yang tidak perlu
+CODELAB/modul_1/
+CODELAB/modul_2/.idea/
+CODELAB/modul_2/modul_1.iml
+CODELAB/modul_2/.gitignore
